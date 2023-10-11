@@ -3,7 +3,7 @@
 # Vehicle Category Object Detection using SSD 
 
 The goal of automated surveillance and monitoring systems is to remove the need of human labor for simple
-vision based tasks that can be performed by a computer or an automated system. One such application is Traffic video analysis system based on computer vision designed to automatically gather important statistics for policy makers and regulators in an automated fashion. These statistics include vehicle counting, vehicle type classification and lane usage monitoring. The core of such system is the detection and classification of vehicles in traffic videos.
+vision based tasks that can be performed by a computer or an automated system. One such application is Traffic video analysi system based on computer vision designed to automatically gather important statistics for policy makers and regulators in an automated fashion. These statistics include vehicle counting, vehicle type classification and lane usage monitoring. The core of such system is the detection and classification of vehicles in traffic videos.
 
 ![](https://i.ibb.co/4sVh0Rj/download.jpg)
 
